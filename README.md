@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Henry
+I'm a CIS student focusing on Linux administration.
 
-<!--
-**Jayr1990/Jayr1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm working on
 
-Here are some ideas to get you started:
+1.Setting up and managing Linux servers (CentOS Stream 10 and Ubuntu 26.04)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2.Writing shell tools with sed and awk
+
+3.Package management and service administration
+
+4.Building this portfolio as I go through the term
+
+What's in my repos
+The pinned repositories on my profile show the work I'm most proud of from this term, including my Linux lab write-ups and the servers I've configured.
+
+Find me
+GitHub: @Jayr1990
